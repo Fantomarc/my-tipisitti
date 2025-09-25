@@ -14,6 +14,13 @@ int main() {
     
     int somma= a + b;
     
-    cout << "La somma dei due valori è: " << somma;
+    cout << "La somma dei due valori è: " << somma << endl;
+    
+    
+    //aggiunta della sottrazione
+    
+    int sottrazione = a-b;
+    cout << "La sottrazione dei due valori è: " << sottrazione;
+    
     return 0;
 }
