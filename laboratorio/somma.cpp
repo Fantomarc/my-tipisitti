@@ -20,7 +20,12 @@ int main() {
     //aggiunta della sottrazione
     
     int sottrazione = a-b;
-    cout << "La sottrazione dei due valori è: " << sottrazione;
+    cout << "La sottrazione dei due valori è: " << sottrazione << endl;
+    
+    //aggiunta moltiplicazione
+    
+    int moltiplicazione = a*b;
+    cout << "La moltiplicazione dei due valori è: " << moltiplicazione;
     
     return 0;
 }
